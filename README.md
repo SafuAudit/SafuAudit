@@ -5,6 +5,5 @@
 ## 🌎 Links:
 - Website https://safuaudit.com/
 - Twitter https://twitter.com/SafuAudit
-- SafuCommunity https://t.me/safuaudit_community
 - Audit request email mailto:requests@safuaudit.com
 - Audit request Telegram https://t.me/William_SafuAudit
